@@ -1,4 +1,3 @@
-# 🖤 DarkSide Dotfiles
 
 Some clean dotfiles I made by mashing up others work and some personal input together.
 
