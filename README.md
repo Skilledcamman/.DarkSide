@@ -53,7 +53,6 @@ yay -S rofi-lbonn-wayland-git papirus-folders-git #Use your preferred AUR manage
 | **papirus-folders-git**          | Papirus folder icons for file managers.                                      |
 
 Clone the repository:
-
 ```bash
 git clone --bare https://github.com/Skilledcamman/DarkSide-dotfiles.git $HOME/.dotfiles
 ```
