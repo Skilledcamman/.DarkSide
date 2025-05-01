@@ -21,7 +21,7 @@ Before using these configs, install the following packages:
 from pacman
 ```bash
 sudo pacman -S --needed \
-  alacritty hyprland mako neofetch \
+  git alacritty hyprland mako neofetch \
   waybar wofi brightnessctl pipewire pipewire-pulse \
   ttf-jetbrains-mono-nerd wireplumber nwg-look \
   imagemagick chafa
