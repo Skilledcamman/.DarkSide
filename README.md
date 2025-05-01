@@ -108,5 +108,6 @@ click on the hyperlinks for docs relating to the respective configurations.
 | **WIN+shift+Q**                  | close window                                                                 |
 | **Win+shift+E**                  | leave hyprland and go back to greeter (log out)                              |
 | **WIN+left_click**               | drag windows                                                                 |
-| **WIN+righ_click**               | resize windows                                                               |  
-| **WIN+Tab**                      | enable window float                                                          |
+| **WIN+right_click**              | resize windows                                                               |  
+| **WIN+tab**                      | enable window float                                                          |
+| **WIN+E**                        | launch Thunar                                                                |
