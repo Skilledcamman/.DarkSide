@@ -14,8 +14,8 @@ These are my personal dotfiles for a Wayland-based Arch Linux environment using 
 - `wofi` – dmenu-style app launcher
 
 ---
-
-## 📦 Dependencies
+## 🔧 Installation
+📦 Dependencies
 
 Before using these configs, install the following packages:
 from pacman
