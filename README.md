@@ -98,3 +98,4 @@ sudo reboot
 - [neofetch](https://github.com/dylanaraps/neofetch) – Change image_source (line 743) in config to point to your image, or you can continue using mine I dont mind 😋.
 - [hyprpaper](https://wiki.hyprland.org/Hypr-Ecosystem/hyprpaper/) - change config to point to your wallpaper.
 - [waybar](https://github.com/Alexays/Waybar) - Thanks to [mechabar](https://github.com/sejjy/mechabar) for letting me *cough cough borrow* their setup.
+click on the hyperlinks for docs relating to the respective configurations.
