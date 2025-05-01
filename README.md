@@ -87,5 +87,5 @@ sudo reboot
 ---
 
 ## ⚙️ Further configurations
-- `hyprland` –
-- `[neofetch](https://github.com/dylanaraps/neofetch)` – Change image_source (line 743) to point to your image, or you can continue using mine I dont mind 😋
+- [hyprland](https://wiki.hyprland.org/Configuring/) – add commands to excecute at start, understand the keybinds or add custom keybinds, etc.
+- [neofetch](https://github.com/dylanaraps/neofetch) – Change image_source (line 743) to point to your image, or you can continue using mine I dont mind 😋.
