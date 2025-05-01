@@ -30,3 +30,5 @@ from AUR
 ```bash
 yay -S rofi-lbonn-wayland-git papirus-folders-git
 ```
+# Use your preferred AUR manager
+
