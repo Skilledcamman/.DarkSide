@@ -25,7 +25,8 @@ sudo pacman -S --needed \
   waybar wofi brightnessctl pipewire pipewire-pulse \
   ttf-jetbrains-mono-nerd wireplumber nwg-look \
   imagemagick chafa
-
+```
 from AUR
 ```bash
 yay -S rofi-lbonn-wayland-git papirus-folders-git
+```
