@@ -4,10 +4,7 @@ Some clean dotfiles I made by mashing up others work and some personal input tog
 
 note: *I tried my best creating this repo so others can use my dots, sorry in advanced if something is broken. Afterall this was my first time*
 
-
-```bash
 ## Welcome to the <code style="color : black">Dark Side</code> !
-```
 
 ```bash
 Welcome to the Dark Side!
