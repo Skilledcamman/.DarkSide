@@ -57,7 +57,7 @@ Clone the repository:
 git clone --bare https://github.com/Skilledcamman/DarkSide-dotfiles.git $HOME/.dotfiles
 ```
 
-Define an alias
+Define an alias:
 ```bash
 mkdir -p ~/.dotfiles-backup
 dotfiles checkout 2>&1 | grep -Eo '\.config/[^ ]+' | while read file; do
@@ -65,5 +65,11 @@ dotfiles checkout 2>&1 | grep -Eo '\.config/[^ ]+' | while read file; do
   mv "$HOME/$file" "$HOME/.dotfiles-backup/$file"
 done
 ```
+
+Checkout the dotfiles:
+```bash
+dotfiles checkout
+```
+
 
 
