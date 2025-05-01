@@ -1,0 +1,48 @@
+/* Monochrome Variant */
+
+* {
+  white:          #ffffff;
+  black:          #141414;
+
+  rosewater:      #ffffff;
+  flamingo:       #ffffff;
+  pink:           #ffffff;
+  mauve:          #ffffff;
+  red:            #ffffff;
+  maroon:         #ffffff;
+  peach:          #ffffff;
+  yellow:         #ffffff;
+  green:          #ffffff;
+  teal:           #ffffff;
+  sky:            #ffffff;
+  sapphire:       #ffffff;
+  blue:           #ffffff;
+  lavender:       #ffffff;
+  text:           #ffffff;
+  subtext1:       #ffffff;
+  subtext0:       #ffffff;
+  overlay2:       #141414;
+  overlay1:       #141414;
+  overlay0:       #141414;
+  surface2:       #141414;
+  surface1:       #141414;
+  surface0:       #141414;
+  base:           #141414;
+  mantle:         #141414;
+  crust:          #141414;
+}
+
+/*
+  bg - background
+  fg - foreground
+  br - border
+*/
+
+* {
+  main-bg:        @black;
+  main-fg:        @white;
+  main-br:        @white;
+  input-bg:       @black;
+  select-bg:      @white;
+  select-fg:      @black;
+}
