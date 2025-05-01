@@ -4,8 +4,13 @@ Some clean dotfiles I made by mashing up others work and some personal input tog
 
 note: *I tried my best creating this repo so others can use my dots, sorry in advanced if something is broken. Afterall this was my first time*
 
+
 ```bash
 ## Welcome to the <code style="color : black">Dark Side</code> !
+```
+
+```bash
+Welcome to the Dark Side!
 ```
 ![202501051746112947_grim](https://github.com/user-attachments/assets/71ee84c8-da9a-478a-a6e7-f3868f06c024)
 ![202501051746113088_grim](https://github.com/user-attachments/assets/d6468b66-fa0b-4636-bd5a-2f575e24d733)
