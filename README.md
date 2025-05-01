@@ -86,3 +86,4 @@ sudo reboot
 ```
 
 
+## ⚙️ Further configurations
