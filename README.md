@@ -114,9 +114,10 @@ click on the hyperlinks for docs relating to the respective configurations.
 | **WIN+left_click**               | drag windows                                                                 |
 | **WIN+right_click**              | resize windows                                                               |  
 | **WIN+tab**                      | enable window float                                                          |
-
-Also you can click and scroll on the volume indicator on waybar to mute/unmute and change volume respectively.
 | **WIN+E**                        | launch Thunar                                                                |
 | **WIN+R**                        | launch Wofi search                                                           |
 | **WIN+1,2,3,4,5,...**            | switch workspace                                                             |
 | **PrtSc**                        | screenshot (check config to set screenshot save location)                    |
+
+
+Also you can click and scroll on the volume indicator on waybar to mute/unmute and change volume respectively.
