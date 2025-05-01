@@ -83,7 +83,7 @@ dotfiles config --local status.showUntrackedFiles no
 
 Add folder Icons:
 ```bash
-papirus-folders -C white
+papirus-folders -C white #check [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders} for more options
 ```
 use nwg-look (GTK-settings) to apply the icon theme
 
