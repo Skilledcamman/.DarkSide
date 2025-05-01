@@ -85,6 +85,7 @@ Add folder Icons:
 ```bash
 papirus-folders -C white
 ```
+use nwg-look (GTK-settings) to apply the icon theme
 
 Reboot:
 ```bash
