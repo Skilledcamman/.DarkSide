@@ -1,6 +1,6 @@
-# 🌑 DarkSide Dotfiles
+# 🖤 DarkSide Dotfiles
 
-These are my personal dotfiles for a Wayland-based Arch Linux environment using [Hyprland](https://github.com/hyprwm/Hyprland). It includes configuration for my terminal, bar, launcher, notifications, and more.
+Some clean dotfiles I made by mashing up others work and some personal input together, Welcome to the Dark Side!
 
 ## 📂 Managed Configs
 
