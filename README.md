@@ -18,6 +18,7 @@ These are my personal dotfiles for a Wayland-based Arch Linux environment using 
 📦 Dependencies
 
 Before using these configs, install the following packages:
+
 from pacman
 ```bash
 sudo pacman -S --needed \
