@@ -18,11 +18,9 @@ These are my personal dotfiles for a Wayland-based Arch Linux environment using 
 ## 📦 Dependencies
 
 Before using these configs, install the following packages:
-
 ```bash
 sudo pacman -S --needed \
-  alacritty gtk3 gtk4 hyprland mako neofetch \
-  rofi-wayland waybar wofi \
-  xdg-desktop-portal-hyprland brightnessctl playerctl \
-  grim slurp swappy swaylock-effects \
-  ttf-font-awesome ttf-nerd-fonts-symbols
+  alacritty hyprland mako neofetch \
+  waybar wofi brightnessctl pipewire pipewire-pulse \
+  ttf-jetbrains-mono-nerd wireplumber nwg-look \
+  imagemagick chafa
