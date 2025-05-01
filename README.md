@@ -80,6 +80,12 @@ Hide untracked files:
 ```bash
 dotfiles config --local status.showUntrackedFiles no
 ```
+
+Add folder Icons:
+```bash
+papirus-folders -C white
+```
+
 Reboot:
 ```bash
 sudo reboot
