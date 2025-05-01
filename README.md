@@ -113,4 +113,4 @@ click on the hyperlinks for docs relating to the respective configurations.
 | **WIN+E**                        | launch Thunar                                                                |
 | **WIN+R**                        | launch Wofi search                                                           |
 | **WIN+1,2,3,4,5,...              | switch workspace                                                             |
-
+| **PrtSc**                        | screenshot (check config to set screenshot save location)                    |
