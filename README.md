@@ -2,7 +2,7 @@
 
 Some clean dotfiles I made by mashing up others work and some personal input together.
 
-## Welcome to the Dark Side!
+## Welcome to the <code style="color : black">Dark Side</code> !
 
 ## 📂 Managed Configs
 
