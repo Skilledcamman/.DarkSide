@@ -18,9 +18,14 @@ These are my personal dotfiles for a Wayland-based Arch Linux environment using 
 ## 📦 Dependencies
 
 Before using these configs, install the following packages:
+from pacman
 ```bash
 sudo pacman -S --needed \
   alacritty hyprland mako neofetch \
   waybar wofi brightnessctl pipewire pipewire-pulse \
   ttf-jetbrains-mono-nerd wireplumber nwg-look \
   imagemagick chafa
+
+from AUR
+```bash
+yay -S rofi-lbonn-wayland-git papirus-folders-git
