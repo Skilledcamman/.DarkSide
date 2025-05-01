@@ -80,5 +80,9 @@ Hide untracked files:
 ```bash
 dotfiles config --local status.showUntrackedFiles no
 ```
+Reboot:
+```bash
+sudo reboot
+```
 
 
