@@ -59,6 +59,11 @@ git clone --bare https://github.com/Skilledcamman/DarkSide-dotfiles.git $HOME/.d
 
 Define an alias:
 ```bash
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+```
+
+Backup dotfiles(if necessary):
+```bash
 mkdir -p ~/.dotfiles-backup
 dotfiles checkout 2>&1 | grep -Eo '\.config/[^ ]+' | while read file; do
   mkdir -p "$(dirname "$HOME/.dotfiles-backup/$file")"
@@ -71,5 +76,9 @@ Checkout the dotfiles:
 dotfiles checkout
 ```
 
+Hide untracked files:
+```bash
+dotfiles config --local status.showUntrackedFiles no
+```
 
 
