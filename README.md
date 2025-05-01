@@ -30,7 +30,7 @@ from AUR
 ```bash
 yay -S rofi-lbonn-wayland-git papirus-folders-git #Use your preferred AUR manager
 ```
-## 🛠️ Installed Dependencies
+🛠️ Installed Dependencies
 | Package                          | Description                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
 | **alacritty**                    | A GPU-accelerated terminal emulator.                                          |
