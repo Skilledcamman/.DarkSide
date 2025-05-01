@@ -88,4 +88,4 @@ sudo reboot
 
 ## ⚙️ Further configurations
 - `hyprland` –
-- [neofetch] (https://github.com/dylanaraps/neofetch) – Change image_source (line 743) to point to your image, or you can continue using mine I dont mind 😋
+- [neofetch](https://github.com/dylanaraps/neofetch) – Change image_source (line 743) to point to your image, or you can continue using mine I dont mind 😋
