@@ -84,6 +84,6 @@ Reboot:
 ```bash
 sudo reboot
 ```
-
+---
 
 ## ⚙️ Further configurations
