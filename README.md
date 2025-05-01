@@ -100,3 +100,13 @@ sudo reboot
 - [waybar](https://github.com/Alexays/Waybar) - Thanks to [mechabar](https://github.com/sejjy/mechabar) for letting me *cough cough borrow* their setup.
 
 click on the hyperlinks for docs relating to the respective configurations.
+
+## ⌨️ General Keybinds
+| Package                          | Description                                                                  |
+|----------------------------------|------------------------------------------------------------------------------|
+| **WIN+F**                        | fullscreen windows                                                           |
+| **WIN+shift+Q**                  | close window                                                                 |
+| **Win+shift+E**                  | leave hyprland and go back to greeter (log out)                              |
+| **WIN+left_click**               | drag windows                                                                 |
+| **WIN+righ_click**               | resize windows                                                               |  
+| **WIN+Tab**                      | enable window float                                                          |
