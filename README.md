@@ -1,6 +1,8 @@
 # 🖤 DarkSide Dotfiles
 
-Some clean dotfiles I made by mashing up others work and some personal input together, Welcome to the Dark Side!
+Some clean dotfiles I made by mashing up others work and some personal input together.
+
+#Welcome to the Dark Side!
 
 ## 📂 Managed Configs
 
