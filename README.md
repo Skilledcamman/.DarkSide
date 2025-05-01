@@ -2,10 +2,10 @@
 
 These are my personal dotfiles for a Wayland-based Arch Linux environment using [Hyprland](https://github.com/hyprwm/Hyprland). It includes configuration for my terminal, bar, launcher, notifications, and more.
 
-## 📂 Managed Configs (Inside `.config/`)
+## 📂 Managed Configs
 
 - `alacritty` – GPU-accelerated terminal emulator
-- `gtk-3.0`, `gtk-4.0` – Theming and UI styling
+- `gtk-3.0`, `gtk-4.0` – Theming and UI styling for Thunar
 - `hypr` – Hyprland window manager config
 - `mako` – Notification daemon for Wayland
 - `neofetch` – System info CLI
