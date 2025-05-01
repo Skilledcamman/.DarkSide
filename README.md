@@ -66,7 +66,7 @@ yay -S rofi-lbonn-wayland-git papirus-folders-git #Use your preferred AUR manage
 
 Clone the repository:
 ```bash
-git clone --bare https://github.com/Skilledcamman/DarkSide-dotfiles.git $HOME/.dotfiles
+git clone --bare https://github.com/Skilledcamman/.DarkSide.git $HOME/.dotfiles
 ```
 
 Define an alias:
