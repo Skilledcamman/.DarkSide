@@ -37,7 +37,7 @@ sudo pacman -S --needed \
   git alacritty hyprland mako neofetch \
   waybar wofi brightnessctl pipewire pipewire-pulse \
   ttf-jetbrains-mono-nerd wireplumber nwg-look \
-  imagemagick chafa
+  imagemagick chafa cmake meson cpio pkgconfig
 ```
 from AUR
 ```bash
