@@ -1,7 +1,7 @@
 
 Some clean dots for Arch I made by mashing up others work and some personal input together.
 
-note: *I tried my best creating this repo so others can use my dots, sorry in advanced if something is broken. Afterall this was my first time. ALso if you have any problems feel free to create an issue. *
+note: *I tried my best creating this repo so others can use my dots, sorry in advanced if something is broken. Afterall this was my first time. ALso if you have any problems feel free to create an issue.*
 
 ## Welcome to the <code style="color : black">⛧𝔻𝕒𝕣𝕜 𝕊𝕚𝕕𝕖⛧</code>!
 
